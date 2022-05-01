@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sonata"
-  avatar           : "Around Sardegna-5.jpg"
+  avatar           : "profile.jpg"
   bio              : "PhD Student at Technical University of Denmark. Development of multiscale mathods to model spectroscopies of biomolecular systems.QM/MM approches, polarizable embedding, molecular dynamics."
   location         : "Copenhagen,Denmark"
   employer         :
