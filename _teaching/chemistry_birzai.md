@@ -3,8 +3,8 @@ title: "Teaching Chemistry in High School"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/chemistry_birzai.md
-venue: "[Biržų "Saulės" gimnazija](https://birzusaule.lt/)"
-date: 2017-09-01/2018-01-01
+venue: "Biržų "Saulės" gimnazija"
+date: 2017-09-01
 location: "Birzai, Lithuania"
 ---
 
