@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Sonata"
   avatar           : "Around Sardegna-5.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Denmark"
+  bio              : "PhD Student at Technical University of Denmark. Development of multiscale mathods to model spectroscopies of biomolecular systems.QM/MM approches, polarizable embedding, molecular dynamics."
+  location         : "Copenhagen,Denmark"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=b4HG06EAAAAJ&hl=en"
-  email            :
+  email            : "sonk@dtu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/sonata.kvedaraviciute"
   foursquare       :
   github           : "sonatak"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/sonata-kvedaraviciute-119282113"
   orcid            : "http://orcid.org/0000-0001-8432-9142"
   pinterest        :
   soundcloud       :
