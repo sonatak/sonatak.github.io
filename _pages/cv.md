@@ -13,8 +13,8 @@ Education
 ======
 * B.Sc. in Chemistry of Nanomaterials, Vilnius University, Lithuania, 2018
 * B.Sc. in Pedagogy (Chemistry Didactics), Vilnius University, Lithuania, 2018
-* M.Sc. in Theoretical Chemistry and Computational Modeling, Autonomous University of Madrid, Spain, 2014
-* Ph.D in Theoretical Chemistry and Computational Modeling, Denmark, 2024 (expected)
+* M.Sc. in Theoretical Chemistry and Computational Modeling, Autonomous University of Madrid, Spain, 2020
+* Ph.D in Theoretical Chemistry and Computational Modeling, Technical University of Denmark, 2024 (expected)
 
 Work experience
 ======
