@@ -2,7 +2,7 @@
 title: "Teaching Chemistry in High School"
 collection: teaching
 type: "High School course"
-permalink: /teaching/birzaiteach
+permalink: /teaching/2014-spring-teaching-1
 venue: "Biržų "Saulės" gimnazija"
 date: 2017-09-01
 location: "Biržai, Lithuania"
