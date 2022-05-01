@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Chemistry in High School"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/chemistry_birzai.md
