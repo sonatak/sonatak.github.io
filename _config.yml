@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sonata"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Technical University of Denmark. Development of multiscale mathods to model spectroscopies of biomolecular systems.QM/MM approches, polarizable embedding, molecular dynamics."
+  bio              : "PhD Student at Technical University of Denmark. Development of multiscale methods to model spectroscopies of biomolecular systems. QM/MM approches, polarizable embedding, molecular dynamics, quantum dynamics."
   location         : "Copenhagen,Denmark"
   employer         :
   pubmed           : #""
