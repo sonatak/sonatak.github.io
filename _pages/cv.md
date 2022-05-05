@@ -18,24 +18,35 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017: Chemistry Teacher
+  * Biržų Saulės gimnazija, Lithuania
+  * Teaching Chemistry course to Secondary School students
+  * Class supervision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Teaching Assistant
+  * DTU, Denmark
+  * Supervision of students lab reports in Physical/Analytical Chemistry Lab course 
+  * Time management
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Theoretical/Quantum Chemistry
+* MD simulations
+* Force Fields
+* Multiscale modeling
+* Programming languages
+  * Fortran
+  * Python
+* Languages: 
+   * Lithuanian
+   * English
+   * Spanish
+   * Russian
+   * Danish
+* Git version control 
+* Communication
+* Problem solving
+* Self-sufficiency 
 
 Publications
 ======
@@ -43,7 +54,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks or poster presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -55,6 +66,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other
 ======
-* Currently signed in to 43 different slack teams
+* Driving license: A2, B
+* Art education: Alumni of Biržų Vlado Jakubėno Musical School (6 years, Flute and Piano) (2003-2009), participation in brass orchestra (4 years)
+* Active member of Vilnius University Folk Music Ensemble "Jaunimelis" (2015-2018)
+* Participant in Baltic song and dance celebrations in 2009, 2014, 2018. (UNESCO Intangible Cultural Heritage)
