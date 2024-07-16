@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sonata"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Technical University of Denmark. Development of multiscale methods to model spectroscopies of biomolecular systems. QM/MM approches, polarizable embedding, molecular dynamics, quantum dynamics."
-  location         : "Copenhagen,Denmark"
+  bio              : "PhD Candidate at the Technical University of Denmark "
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=b4HG06EAAAAJ&hl=en"
-  email            : "sonk@dtu.dk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "sonatak@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Sonata-Kvedaraviciute"
   uri              :
   bitbucket        :
   codepen          :
