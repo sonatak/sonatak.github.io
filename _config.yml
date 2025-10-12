@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sonata Kvedaravičiūtė / PhD Candidate"
+title                    : "Sonata Kvedaravičiūtė, PhD"
 title_separator          : "-"
 name                     : &name "Sonata Kvedaravičiūtė"
-description              : &description "PhD Candidate"
+description              : &description "Computational modeling specialist | PhD in Physical Chemistry"
 url                      : https://sonatak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonatak/sonatak.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sonata"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at the Technical University of Denmark "
+  bio              : "PhD in Physical Chemistry, Scientific research software developer "
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #""
